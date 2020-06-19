@@ -10,6 +10,7 @@ Point Point yang harus diperhatikan dalam pembuatan tugas besar:
 3. Minimal Jurnal 10 dan 3 buku
 4. Gunakan tools mendeley untuk daftar pustaka
 Download tools mendeley disini :https://www.mendeley.com/download-desktop-new/
+Jangan lupa setting style citation nya jadi harvard
 5. Laporan tugas besar harus ada minimal 50 halaman
 6. Jika memasukan gambar, maksimal ada 3 gambar dengan ketentuan panjang dan lebar 10 X 5
 
